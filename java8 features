@@ -1,0 +1,16 @@
+Interface:
+
+1. interface method should have default,static and abstract only one at a time.
+2. interface allow static methods
+3. if 2 interface and class has same methods then first prioity will be your class method.
+
+
+LmbdaExpression:
+
+1. suppose have a interface method it's implementation provided by annonymous inner class. then avoidig this we should use lambda expression.
+
+2. A condition would be that interface has only one method..............
+
+
+
+
